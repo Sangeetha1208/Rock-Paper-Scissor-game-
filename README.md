@@ -10,3 +10,4 @@ The game emphasizes static front-end design, focusing on layout structuring, vis
 This project is ideal for beginners in web development, as it showcases fundamental skills in page structure and styling. It can also be expanded in the future by integrating JavaScript to make it fully interactive.
 
 https://github.com/Sangeetha1208/Rock-Paper-Scissor-game-/blob/8ff8dec0ff187887355bd959b2ed887b7a732ec0/game.png
+https://github.com/Sangeetha1208/Rock-Paper-Scissor-game-/blob/b407f2fdb3f8ce31c6631c1d092e7d9475075c51/sample%20image.png
