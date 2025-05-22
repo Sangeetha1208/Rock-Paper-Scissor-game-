@@ -11,3 +11,4 @@ This project is ideal for beginners in web development, as it showcases fundamen
 
 https://github.com/Sangeetha1208/Rock-Paper-Scissor-game-/blob/8ff8dec0ff187887355bd959b2ed887b7a732ec0/game.png
 https://github.com/Sangeetha1208/Rock-Paper-Scissor-game-/blob/b407f2fdb3f8ce31c6631c1d092e7d9475075c51/sample%20image.png
+https://github.com/Sangeetha1208/Rock-Paper-Scissor-game-/blob/c80007d85ef1c543960d98947131209cadff359d/sample%20image%20(2).png
